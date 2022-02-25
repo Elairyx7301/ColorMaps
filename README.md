@@ -4,7 +4,7 @@ Feel free to use them in any of your projects, for commercial or private uses. A
 
 `•` Feel free to give feedback, report issues or reach out to me via an issue in this repository.
 # `Download`
-[colorMaps.zip](https://github.com/Elairyx7301/ColorMaps/files/8140130/colorMaps.zip)
+**[colorMaps.zip](https://github.com/Elairyx7301/ColorMaps/files/8140130/colorMaps.zip)**
 
  
 
