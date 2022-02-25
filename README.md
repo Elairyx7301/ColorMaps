@@ -1,5 +1,5 @@
 # `ColorMaps`
-**50 carefully crafted color maps for game development ready to go**
+**50 carefully crafted color maps for game development ready to go!**<br>
 Feel free to use them in any of your projects, for commercial or private uses. Absolutely no need to credit.
 
 `•` Feel free to give feedback, report issues or reach out to me via an issue in this repository.
