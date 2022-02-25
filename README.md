@@ -48,6 +48,8 @@ taking damage etc..
 
 ![image](https://user-images.githubusercontent.com/83909121/155691465-d4002071-4e80-438b-b0d2-04e6dc815267.png)
 
+[![CC0 License](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 Many more for almost every use case.<br>
 **Enjoy!**
 
