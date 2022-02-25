@@ -2,9 +2,9 @@
 **50 carefully crafted color maps for game development ready to go!**<br>
 Feel free to use them in any of your projects, for commercial or private uses. Absolutely no need to credit.
 
-`•` Feel free to give feedback, report issues or reach out to me via an issue in this repository.
+\- Feel free to give feedback, report issues or reach out to me via an issue in this repository.
 # `Download`
-**[colorMaps.zip](https://github.com/Elairyx7301/ColorMaps/files/8140130/colorMaps.zip)**
+### **[colorMaps.zip](https://github.com/Elairyx7301/ColorMaps/files/8140130/colorMaps.zip)**
 
  
 
@@ -26,7 +26,7 @@ taking damage etc..
 
 # `Showcase`
 ## Original image (no custom color map)
-*Those platformer assets are not mine*
+*Shown platformer assets are not mine*
 ![image](https://user-images.githubusercontent.com/83909121/155691018-cd14918e-e2ce-42a5-950f-7e70fa68dba9.png)
 
 ## With custom color maps
@@ -48,6 +48,7 @@ taking damage etc..
 
 ![image](https://user-images.githubusercontent.com/83909121/155691465-d4002071-4e80-438b-b0d2-04e6dc815267.png)
 
+Many more for almost every use case.<br>
 **Enjoy!**
 
  
