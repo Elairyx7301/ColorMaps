@@ -25,7 +25,7 @@ taking damage etc..
  
 
 # `Showcase`
-## Original image (no custom color map)
+## Original colors (no custom color map)
 *Shown platformer assets are not mine*
 ![image](https://user-images.githubusercontent.com/83909121/155691018-cd14918e-e2ce-42a5-950f-7e70fa68dba9.png)
 
