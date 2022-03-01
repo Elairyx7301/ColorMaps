@@ -9,7 +9,7 @@ Feel free to use them in any of your projects, for commercial or private uses. A
  
 
 ## Introduction
-Use them in your game development software to easily switch between day and night or have every world or level have a slightly different style than the last one.
+Use color maps in your game development software to easily switch between day and night scenes or have every world or level have a different touch to it than the last one.
 
 ## How color maps improve your game
 Create themes like *forest*, *desert*, *retro* or change the atmosphere of the game. Let the stage appear frozen in seconds, increase the red colors for the final boss fight,
