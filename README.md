@@ -3,7 +3,7 @@
 Feel free to use them in any of your projects, for commercial or private uses. Absolutely no need to credit.
 
 \- Feel free to give feedback, report issues or reach out to me via an issue in this repository.
-# `Download`
+## `Download`
 ### **[colorMaps.zip](https://github.com/Elairyx7301/ColorMaps/files/8140130/colorMaps.zip)**
 
  
