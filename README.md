@@ -56,8 +56,5 @@ Many more for almost every use case.<br>
  
 
 ### Elairyx
-Website: www.elairyx.com<br>
+Discord: elairyx<br>
 E-Mail: [elairyx@gmail.com](mailto:elairyx@gmail.com)<br>
-YouTube: https://youtube.com/Elairyx<br>
-GitHub: https://github.com/Elairyx7301<br>
-GameJolt: https://gamejolt.com/@elairyx
